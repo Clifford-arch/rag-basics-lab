@@ -1,0 +1,42 @@
+[
+  {
+    "order_date": "2023-01-15",
+    "region": "East",
+    "product": "Pencil",
+    "units_sold": 95,
+    "unit_price": 1.99,
+    "total_revenue": 189.05
+  },
+  {
+    "order_date": "2023-01-23",
+    "region": "Central",
+    "product": "Binder",
+    "units_sold": 50,
+    "unit_price": 19.99,
+    "total_revenue": 999.5
+  },
+  {
+    "order_date": "2023-02-09",
+    "region": "Central",
+    "product": "Pencil",
+    "units_sold": 36,
+    "unit_price": 1.99,
+    "total_revenue": 71.64
+  },
+  {
+    "order_date": "2023-02-26",
+    "region": "West",
+    "product": "Pen",
+    "units_sold": 27,
+    "unit_price": 19.99,
+    "total_revenue": 539.73
+  },
+  {
+    "order_date": "2023-03-15",
+    "region": "West",
+    "product": "Pencil",
+    "units_sold": 56,
+    "unit_price": 2.99,
+    "total_revenue": 167.44
+  }
+]
